@@ -120,4 +120,4 @@ Labor hours: 0
 
 Contact Name: John Doe
 
-Contact Phone: (202) 366-3000
+Contact Phone: (888) 555-1234
