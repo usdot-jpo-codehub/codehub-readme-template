@@ -1,71 +1,74 @@
 # codehub-readme-template
 
-# Summary of what a README.md is:
+# Summary of what a README file is:
 
-This is a template document meant to clearly and concisely convey what your application does and how it works. This is meant to advertise and encourage people to use your application.
+A README file contains important information about the associated source code, files, dependencies and etc., that make up an application. In order to leverage applications and their associated source code, members of the open source community rely on clear and concise READMEs.
 
-All of the following sections are recommended but order and naming of the sections is only encouraged. We only _require_ the Code.gov Registration Info section at the bottom of your README document.
+The following is a README template comprised of best practices for what information users expect to be included within a README.md file and how to organize for better user expereince. Pease feel free to copy and paste this template into your own repository's README space. 
 
-Note that ITS CodeHub has indicator badges that we place on the chiclet of your repository:
+# Organziational Outline:
+* Project Title
+* Getting Started
+* Prerequisites
+* Installing
+* Testing
+* Deployment 
+* Builds
+* Contributions
+* Versioning
+* Authors
+* License
+* Acknowledgments
+* Code.gov Registration
 
-1. Awaiting Approval
-  - This badge indicates that your repository is new to ITS CodeHub and has begun the code cleanliness review process.
-2. Approved
-  - This badge indicates that your repository has passed the ITS CodeHub code quality process.
-3. Unsupported
-  - This badge indicates a repository that is archived or hasn't been updated for more than 2 years.
-4. Not Approved
-  - This badge indicates that your repository has failed the ITS CodeHub code quality review process.
 
 # Project Title
 
-One Paragraph of project description goes here
+-Insert your project's title and one paragraph description. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+-Place instructions for standing up a copy of the project on user's local machine for development and testing purposes. You can could also include deployment notes for pushing to production environment. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+-Detail what actions users may need to take before they can stand up the project. This might include instructions and examples for installing additional software.  
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+-Insert step by step instructions that a user needs to follow to stand up a development environment of your project.
 
-Say what the step will be
+Example:
 
-```
-Give the example
-```
-
-And repeat
+Step 1: Set up a cloud environment. 
 
 ```
-until finished
+Provide details. 
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Step 2: Set up cloud alarms.
 
 ```
-Give an example
+Provide details
 ```
 
-### And coding style tests
+## Testing
 
-Explain what these tests test and why
+-Provide explaination for how to run automated testing for this project. 
+
+### End to End Testing
+
+-Detail each test and the reasoning behind them. It is also a best practice to provide several situational examples.
+
+Example:
+
+```
+Unit Testing
+```
+
+### Code style tests
+
+-Detail each test and the reasoning behind them. It is also a best practice to provide several situational examples.
 
 ```
 Give an example
@@ -73,40 +76,58 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+*Add any additional notes users may need for how to deploy the project on a live system.
 
-## Built With
+## Builds
 
+-Detail the framworks, code styles and any applications used to create and run the project. 
+
+Example:
+ 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+## Contributions
+
+-Examplain how users can interact with this project's repository and your expectations for their conduct. 
+
+Example:
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
+-Detail what the proejct is using for version control and how to access available versions. 
+
+Example:
+
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+-List the point of contact for the repository. SOmetimes this can be a product owner, a technical owner or a general technical assistance mailbox. 
+
+Example:
+
+**Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
+*PLace the project's open souce lience here. 
+
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+-It is best practice to have an acknowledgment section if you have a 3rd party or any specific contributor to give credit. Some community memebers like to share what inspired them to create their projects. 
 
 ## Code.gov Registration Info
+-Per federal mandate (the Federal Source Code Policy), all federally funded software must be registered with code.gov. Please reach out if you do not have plans for complying with the federal mandate. 
 
+Example:
 
 Agency: DOT
 
