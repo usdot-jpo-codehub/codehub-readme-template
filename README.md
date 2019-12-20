@@ -1,14 +1,13 @@
 # codehub-readme-template
 
-# Summary of what a README file is:
+# Summary of README File:
+
+The following README template is comprised of best practices for what information users expect to be included in a README.md file and how to organize for a better user experience. Pease feel free to copy and paste this template into your own repository's README space. 
 
 A README file contains important information about the associated source code, files, dependencies and etc., that make up an application. In order to leverage applications and their associated source code, members of the open source community rely on clear and concise READMEs.
 
-The following is a README template comprised of best practices for what information users expect to be included within a README.md file and how to organize for better user expereince. Pease feel free to copy and paste this template into your own repository's README space. 
-
 # Organziational Outline:
 * Project Title
-* Getting Started
 * Prerequisites
 * Installing
 * Testing
@@ -24,13 +23,13 @@ The following is a README template comprised of best practices for what informat
 
 # Project Title
 
--Insert your project's title and one paragraph description. 
+-Insert your project's title and one paragraph description.
 
-## Getting Started
+Example: What does your project accomplish? What is the goal of your project? Who could use/benefit from your project?
+
+## Prerequisites
 
 -Place instructions for standing up a copy of the project on user's local machine for development and testing purposes. You can could also include deployment notes for pushing to production environment. 
-
-### Prerequisites
 
 -Detail what actions users may need to take before they can stand up the project. This might include instructions and examples for installing additional software.  
 
@@ -58,7 +57,7 @@ Provide details
 
 ### End to End Testing
 
--Detail each test and the reasoning behind them. It is also a best practice to provide several situational examples.
+-Detail each test and the reasoning behind them. Best practice dictates providing several situational examples.
 
 Example:
 
@@ -76,7 +75,7 @@ Give an example
 
 ## Deployment
 
-*Add any additional notes users may need for how to deploy the project on a live system.
+-Add any additional notes users may need for deploying the project on a live system.
 
 ## Builds
 
@@ -94,7 +93,7 @@ Example:
 
 Example:
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests.
 
 ## Versioning
 
@@ -106,7 +105,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
--List the point of contact for the repository. SOmetimes this can be a product owner, a technical owner or a general technical assistance mailbox. 
+-List the point of contact for the repository. Sometimes this can be a product owner, a technical owner or a general technical assistance mailbox. 
 
 Example:
 
@@ -125,7 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 -It is best practice to have an acknowledgment section if you have a 3rd party or any specific contributor to give credit. Some community memebers like to share what inspired them to create their projects. 
 
 ## Code.gov Registration Info
--Per federal mandate (the Federal Source Code Policy), all federally funded software must be registered with code.gov. Please reach out if you do not have plans for complying with the federal mandate. 
+-Per federal mandate (Federal Source Code Policy (https://sourcecode.cio.gov/), all federally-funded source code must be registered with Code.gov. Please reach out if you do not have plans for complying or questions about complying with the federal mandate.
 
 Example:
 
