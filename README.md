@@ -35,6 +35,8 @@ This project is a README template for guiding users towards including as much us
 
 *Required - A list of changes included in every release of your project.*
 
+Example:
+
 #### Release 1.0.2 (Apr 2, 2020)
 - Fixed bug with popup
 
