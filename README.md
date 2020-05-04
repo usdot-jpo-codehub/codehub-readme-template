@@ -2,12 +2,13 @@
 
 # Summary of what a README file is:
 
-A README file contains important information about the associated source code, files, dependencies and etc., that make up an application. In order to leverage applications and their associated source code, members of the open source community rely on clear and concise READMEs.
+A README file contains important information about the associated source code, files, dependencies and related details that make up an application. In order to leverage applications and their associated source code, members of the open source community rely on clear and concise READMEs.
 
-The following is a README template comprised of best practices for what information users expect to be included within a README.md file and how to organize for better user expereince. Pease feel free to copy and paste this template into your own repository's README space. 
+The following is a README template comprised of best practices for what information users expect to be included within a README.md file and how to organize for better user experience, as well as requirements for making code available on the ITS CodeHub. **Pease feel free to copy and paste this template into your own repository's README space.**
 
-# Organziational Outline:
-* Project Title
+# README Outline:
+* Project Description
+* Contact Information
 * Release Notes
 * Getting Started
 * Prerequisites
@@ -17,25 +18,38 @@ The following is a README template comprised of best practices for what informat
 * Builds
 * Contributions
 * Versioning
-* Authors
 * License
 * Acknowledgments
-* Code.gov Registration
+* Additional Notes
 
+# Project Description
 
-# Project Title
-
-*Required - Insert your project's title and one paragraph description.*
+*Required - Insert your project's title, a one paragraph description of its code and what the code does.*
 
 Example:
 
-This project is a README template for guiding users towards including as much useful information as possible.
+README Template
+
+This project is a README template for users to copy-paste into their project's README file and fill out with their project's information in order to provide useful and relevant information to users of a repository, as well as to be compliant with ITS JPO requirements for making source code available on ITS CodeHub.
+
+## Contact Information
+
+*Required - Provide a primary contact and associated contact information (e.g. email and phone number) for the ITS JPO to contact regarding questions for this repository.*
+
+Example:
+
+Contact Name: ITS JPO
+Contact Information: data.itsjpo@dot.gov, (888)-888-8888
 
 ## Release Notes
 
-*Required - A list of changes included in every release of your project.*
+*Required - A statement of the status of the source code (prototype, alpha, beta, release, etc.), how often users can expect activity on this repository, and a list of changes included in every release of your project.*
 
 Example:
+
+Status: this project is in the release phase.
+
+This project is updated approximately once every 2-3 weeks.
 
 #### Release 1.0.2 (Apr 2, 2020)
 - Fixed bug with popup
@@ -49,7 +63,7 @@ Example:
 
 ## Getting Started
 
-*Required - Place instructions for standing up a copy of the project on user's local machine for development and testing purposes. You can could also include deployment notes for pushing to production environment.*
+*Required - Place instructions for standing up a copy of the project on a user's local machine for development and testing purposes. You can could also include deployment notes for pushing to the production environment.*
 
 ### Prerequisites
 
@@ -63,7 +77,7 @@ Requires:
 
 ### Installing
 
-*Insert step by step instructions that a user needs to follow to stand up a development environment of your project.*
+*Insert step-by-step instructions that a user needs to follow to stand up a development environment of your project.*
 
 Example:
 
@@ -81,11 +95,11 @@ Provide details
 
 ## Testing
 
-*Required - Provide explaination for how to run automated and manual tests for this project.*
+*Required - Provide explanation for how to run automated and manual tests for this project.*
 
-### End to End Testing
+### End-to-End Testing
 
-*Detail each test and the reasoning behind them. It is also a best practice to provide several situational examples.*
+*Detail each test and the reasoning behind it. It is also a best practice to provide several situational examples.*
 
 Example:
 
@@ -95,7 +109,7 @@ To run the unit tests, run the following command:
 mvn clean test
 ```
 
-### Code style tests
+### Code standard tests
 
 *Detail each test and the reasoning behind them. It is also a best practice to provide several situational examples.*
 
@@ -115,25 +129,26 @@ Deploy this function as an AWS Lambda function, following [this guide](https://d
 
 ## Builds
 
-*Optional - Detail the framworks, code styles and any applications used to create and run the project.*
+*Required - Detail the open code standard(s) used, frameworks, and any applications used to create and run the project. If a non-open code standard is used, explain why.*
 
 Example:
  
+* [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html) - The open coding standard used
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributions
 
-*Optional - Explain how users can interact with this project's repository and your expectations for their conduct.*
+*Required - Create a file named "CONTRIBUTING.md" explaining how users can interact with this project's repository, your expectations for their conduct, and how contributions by users will be released (e.g. whether they will be released under the same license and whether those contributors waive their rights accordingly).*
 
 Example:
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our Code of Conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our Code of Conduct, the process for submitting pull requests to us, and how contributions will be released.
 
 ## Versioning
 
-*Optional - use this section to explain what versioning technique your project uses and how major and minor versions differ*
+*Optional - use this section to explain what versioning technique your project uses and how major and minor versions differ.*
 
 Example:
 
@@ -141,36 +156,24 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-*Required - Identify the project's license here.*
+*Required - Create a file named "LICENSE.md" that contains at least the licensing status of the code and the full text of the open source license or a link to where the license is officially maintained. If for some reason the source code does not use an open license, explain why.*
 
 Example:
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-*Optional - use this section if you have a 3rd party or any specific contributor to give credit.*
+*Required - describe how users should reference your code if they use it to build additional software, list the Digital Object Identifier for this project, and (optional) list if you have a 3rd party or any specific contributor to give credit.*
 
 Example:
+
+To track how this government-funded code is used, we request that if you decide to build additional software using this code please acknowledge its Digital Object Identifier in your software's README/documentation.
+
+Digital Object Identifier: https://www.doi.org/ 
 
 Shout out to [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) for their README template.
 
-## Code.gov Registration Info
+## Additional Notes
 
-*Required - Per the federal mandate (the Federal Source Code Policy), all federally funded software must be registered with code.gov. Please reach out if you do not have plans for complying with the federal mandate.*
-
-Example:
-
-Agency: DOT
-
-Short Description: One sentence description of the project.
-
-Status: Development status (Alpha, Beta, Released, Deprecated)
-
-Tags: words, describing, your, application
-
-Labor hours: 0
-
-Contact Name: John Doe
-
-Contact Phone: (888) 555-1234
+*Optional - include any other relevant technical details on how to build, make, install or use the software, including dependencies.*
