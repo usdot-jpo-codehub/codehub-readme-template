@@ -160,7 +160,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 Example:
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License - see the [License.MD](https://github.com/usdot-jpo-codehub/codehub-ui/blob/master/LICENSE) and [GitHub License](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) for more details. 
 
 ## Acknowledgments
 
