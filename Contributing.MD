@@ -1,6 +1,6 @@
 # Welcome
 
-We're so glad you're thinking about contributing to a U.S. DOT Intelligent Transportations Systems Joint Program Office's (ITS JPO).README template. If you're unsure about anything, just ask -- or submit the issue or pull request anyway. If you want to contact us outside GitHub, you can reach us at [data.itsjpo](mailto://data.itsjpo@dot.gov)
+We're so glad you're thinking about contributing to a U.S. DOT Intelligent Transportations Systems Joint Program Office's (ITS JPO) README template. If you're unsure about anything, just ask -- or submit the issue or pull request anyway. If you want to contact us outside GitHub, you can reach us at [data.itsjpo](mailto://data.itsjpo@dot.gov)
 
 ## Licensing Status
 
@@ -26,7 +26,7 @@ For each pull request, a Public Access Implementation and Support Team member wi
 Once a pull request is merged, we will take care of the rest and get it into the final release.
 
 ## Issue Guidelines
-In the interest of making it easier for our contributors to manage site issues, we request that issues follow certain guidelines.  Our developers mainly use [issues](https://github.com/GSA/code-gov-front-end/issues) to identify and prioritize their work.  If you have questions about [ITS CodeHub](https://www.its.dot.gov/code/) or would like start a general discussion, we kindly request that you email us at [data.itsjpo](mailto://data.itsjpo@dot.gov)  Our issue guidelines are a living document and a work in progress, so feel free to offer feedback on it, by emailing us at [data.itsjpo](mailto://data.itsjpo@dot.gov)
+In the interest of making it easier for our contributors to manage site issues, we request that issues follow certain guidelines.  Our developers mainly use [issues](https://github.com/GSA/code-gov-front-end/issues) to identify and prioritize their work.  If you have questions about [ITS CodeHub](https://www.its.dot.gov/code/) or would like to start a general discussion, we kindly request that you email us at [data.itsjpo](mailto://data.itsjpo@dot.gov)  Our issue guidelines are a living document and a work in progress, so feel free to offer feedback on it, by emailing us at [data.itsjpo](mailto://data.itsjpo@dot.gov)
  - **Specific**: The issue makes specific requests.  An example of a specific request would be `Reduce the Size of Images`.   An example of a non-specific request would be `Improve Site Performance`.
  - **Measurable**: The issue has specific requirements and can be closed when those requirements are met.  This helps us track the progress in addressing problems.  For example, tech debt is always something to work on, so we should create separate issues for this, such as `Consolidate Styling of Repo and Task Cards` and `Convert Validator from Monaco Editor to jsoneditor`, rather than `Address Tech Debt`.
  - **Actionable**: An issue should request a specific action from a member of the code.gov team or community.  An example of something actionable would be `Remove Debugging Text from Loading Screen`.  An example of something that isn't actionable by our team or community is `My city should be forking usdot-jpo-codehub.
@@ -49,4 +49,3 @@ Keep your PR up-to-date with upstream/master (if there are merge conflicts, we c
 Apply the "release notes: yes" label if the pull request's description should be included in the next release (e.g., any new feature / bug fix). Apply the "release notes: no" label if the pull request's description should not be included in the next release (e.g., refactoring changes that does not change behavior, integration from Google internal, updating tests, etc.).
 
 Contributions will be release in accordance with GitHub site policies (link to https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license), including that contributions will be released under the same license applied to this repository.
-
