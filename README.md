@@ -15,7 +15,7 @@ For a real-world example of an ITS JPO-funded project using this template, see t
 # README Outline:
 * Project Description
 * Contact Information
-* Release Notes
+* Release and Retention Notes
 * Getting Started
 * Prerequisites
 * Installing
@@ -47,15 +47,17 @@ Example:
 Contact Name: ITS JPO
 Contact Information: data.itsjpo@dot.gov, (888)-888-8888
 
-## Release Notes
+## Release and Retention Notes
 
-*Required - A statement of the status of the source code (prototype, alpha, beta, release, etc.), how often users can expect activity on this repository, and a list of changes included in every release of your project.*
+*Required - A statement of the status of the source code (prototype, alpha, beta, release, etc.), how often users can expect activity on this repository, and a list of changes included in every release of your project. Additionally, a statement for how long this repository will remain publicly accessible*
 
 Example:
 
 Status: this project is in the release phase.
 
 This project is updated approximately once every 2-3 weeks.
+
+Retention: this project will remain publicly accessible for a minimum of five years.
 
 #### Release 1.0.2 (Apr 2, 2020)
 - Fixed bug with popup
@@ -182,4 +184,4 @@ Shout out to [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d8
 
 ## Additional Notes
 
-*Optional - include any other relevant technical details on how to build, make, install or use the software, including dependencies.*
+*Optional - include any other relevant technical details on how to build, make, install or use the software, including dependencies. If there are datasets and associated Data Management Plans that interact with this source code, please provide them here.*
