@@ -4,7 +4,13 @@
 
 A README file contains important information about the associated source code, files, dependencies and related details that make up an application. In order to leverage applications and their associated source code, members of the open source community rely on clear and concise READMEs.
 
-The following is a README template comprised of best practices for what information users expect to be included within a README.md file and how to organize for better user experience, as well as requirements for making code available on the ITS CodeHub. **Pease feel free to copy and paste this template into your own repository's README space.**
+# Purpose of this template
+
+The purpose of this README template is to provide project teams an easy template to copy-paste into their own README file for source code funded, either fully or partially, by the United States Department of Transportation (U.S. DOT) Intelligent Transportation Systems Joint Program Office (ITS JPO). This template contains elements for compliance with the [ITS JPO Source Code Guidelines](https://itscodehub.boozallencsn.com/#/repopublishing) and README best practices. All required fields must be filled out in order to make source code available on [ITS CodeHub](https://www.its.dot.gov/code/) and track compliance with the ITS JPO Source Code Guidelines. 
+
+The goal is for project READMEs to be compliant, clear, concise, and informative for source code users. Please note that the CONTRIBUTING and LICENSE files required by the ITS JPO Source Code Guidelines are nested within this template. See the License and Contributions sections of this template for more details. **Pease feel free to copy and paste this template into your own repository's README space.**
+
+For a real-world example of an ITS JPO-funded project using this template, see the [STOL-AMS/TO-22-Improved-CACC](https://github.com/STOL-AMS/TO-22-Improved-CACC) repository.
 
 # README Outline:
 * Project Description
@@ -24,17 +30,17 @@ The following is a README template comprised of best practices for what informat
 
 # Project Description
 
-*Required - Insert your project's title, a one paragraph description of its code and what the code does.*
+*Required - Insert a description of your project, including the project's title, purpose and goals of the project, purpose of the source code, how the source code relates to the overall goals of the project, whether this source code relates to other source code in the project, and length of the project.*
 
 Example:
 
 README Template
 
-This project is a README template for users to copy-paste into their project's README file and fill out with their project's information in order to provide useful and relevant information to users of a repository, as well as to be compliant with ITS JPO requirements for making source code available on ITS CodeHub.
+This project is a README template for users to copy-paste into their project's README file and fill out with their project's information in order to provide useful and relevant information to users of a repository, as well as to be compliant with ITS JPO requirements for making source code available on ITS CodeHub. It is accompanied by a LICENSE and CONTRIBUTING file, linked to in the License and Contributions sections below. This project will continue indefinitely as long as the ITS JPO Source Code Guidelines are in effect.
 
 ## Contact Information
 
-*Required - Provide a primary contact and associated contact information (e.g. email and phone number) for the ITS JPO to contact regarding questions for this repository.*
+*Required - Provide a primary contact and associated contact information (e.g. email and phone number) for users to contact with questions about this repository.*
 
 Example:
 
@@ -140,11 +146,11 @@ Example:
 
 ## Contributions
 
-*Required - Create a file named "CONTRIBUTING.md" explaining how users can interact with this project's repository, your expectations for their conduct, and how contributions by users will be released (e.g. whether they will be released under the same license and whether those contributors waive their rights accordingly).*
+*Required - Create a file named "CONTRIBUTING.md" explaining how users can interact with this project's repository, your expectations for their conduct, and how contributions by users will be released (e.g. whether they will be released under the same license and whether those contributors waive their rights accordingly). See [CONTRIBUTING.md](https://github.com/usdot-jpo-codehub/codehub-readme-template/blob/master/Contributing.MD) for an example of this file.*
 
 Example:
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our Code of Conduct, the process for submitting pull requests to us, and how contributions will be released.
+Please read [CONTRIBUTING.md](https://github.com/usdot-jpo-codehub/codehub-readme-template/blob/master/Contributing.MD) for details on our Code of Conduct, the process for submitting pull requests to us, and how contributions will be released.
 
 ## Versioning
 
@@ -160,7 +166,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 Example:
 
-This project is licensed under the Apache 2.0 License - see the [License.MD](https://github.com/usdot-jpo-codehub/codehub-ui/blob/master/LICENSE) and [GitHub License](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) for more details. 
+This project is licensed under the Creative Commons 1.0 Universal (CC0 1.0) License - see the [License.MD](https://github.com/usdot-jpo-codehub/codehub-ui/blob/master/LICENSE) for more details. 
 
 ## Acknowledgments
 
@@ -170,7 +176,7 @@ Example:
 
 To track how this government-funded code is used, we request that if you decide to build additional software using this code please acknowledge its Digital Object Identifier in your software's README/documentation.
 
-Digital Object Identifier: https://www.doi.org/ 
+Digital Object Identifier: (fill in with DOI)
 
 Shout out to [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) for their README template.
 
