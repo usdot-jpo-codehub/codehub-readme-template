@@ -6,7 +6,7 @@ A README file contains important information about the associated source code, f
 
 # Purpose of this template
 
-The purpose of this README template is to provide project teams an easy template to copy-paste into their own README file for source code funded, either fully or partially, by the United States Department of Transportation (U.S. DOT) Intelligent Transportation Systems Joint Program Office (ITS JPO). This template contains elements for compliance with the [ITS JPO Source Code Guidelines](https://itscodehub.boozallencsn.com/#/repopublishing) and README best practices. All required fields must be filled out in order to make source code available on [ITS CodeHub](https://www.its.dot.gov/code/) and track compliance with the ITS JPO Source Code Guidelines. 
+The purpose of this README template is to provide project teams an easy template to copy-paste into their own README file for source code funded, either fully or partially, by the United States Department of Transportation (U.S. DOT) Intelligent Transportation Systems Joint Program Office (ITS JPO). This template contains elements for compliance with the [ITS JPO Source Code Guidelines](https://its.dot.gov/code/#/source-code-guidelines) and README best practices. All required fields must be filled out in order to make source code available on [ITS CodeHub](https://www.its.dot.gov/code/) and track compliance with the ITS JPO Source Code Guidelines. 
 
 The goal is for project READMEs to be compliant, clear, concise, and informative for source code users. Please note that examples of the [CONTRIBUTING.md](https://github.com/usdot-jpo-codehub/codehub-readme-template/blob/master/Contributing.MD) and [LICENSE.md](https://github.com/usdot-jpo-codehub/codehub-ui/blob/master/LICENSE) files required by the ITS JPO Source Code Guidelines are nested within this template. See the License and Contributions sections of this template for more details. **Pease feel free to copy and paste this template into your own repository's README space.**
 
@@ -57,25 +57,25 @@ Status: this project is in the release phase.
 
 This project is updated approximately once every 2-3 weeks.
 
-Retention: this project will remain publicly accessible for a minimum of five years.
-
-#### Release 1.0.2 (Apr 2, 2020)
-- Fixed bug with popup
-
-#### Release 1.0.1 (Mar 19, 2020)
-- Added unit tests
-  - Unit tests can be run using `mvn clean test`
+Retention: this project will remain publicly accessible for a minimum of five years (until at least 06/15/2025).
 
 #### Release 1.0.0 (Mar 5, 2020)
 - Initial release
 
+#### Release 1.0.1 (Mar 19, 2020)
+- Added unit tests
+  - Unit tests can be run using `mvn clean test`
+  
+#### Release 1.0.2 (Apr 2, 2020)
+- Fixed bug with popup
+
 ## Getting Started
 
-*Required - Place instructions for standing up a copy of the project on a user's local machine for development and testing purposes. You can could also include deployment notes for pushing to the production environment.*
+*Required - Place instructions for standing up a copy of the project on a user's local machine for development and testing purposes. You can also include deployment notes for pushing to the production environment.*
 
 ### Prerequisites
 
-*Detail what actions users may need to take before they can stand up the project. This might include instructions and examples for installing additional software.*
+*Detail what actions users need to take before they can stand up the project, including instructions for different environments users might have. This might include instructions and examples for installing additional software.*
 
 Example:
 
