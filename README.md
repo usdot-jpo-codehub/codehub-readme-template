@@ -164,11 +164,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-*Required - Create a file named "LICENSE.md" that contains at least the licensing status of the code and the full text of the open source license or a link to where the license is officially maintained. If for some reason the source code does not use an open license, explain why. See [LICENSE.md](https://github.com/usdot-jpo-codehub/codehub-ui/blob/master/LICENSE) for an example of this file.*
+*Required - Create a file named "LICENSE.md" that contains at least the licensing status of the code and the full text of the open source license or a link to where the license is officially maintained. If for some reason the source code does not use an open license, explain why. See [LICENSE.md](https://github.com/usdot-jpo-codehub/codehub-readme-template/blob/master/LICENSE) for an example of this file.*
 
 Example:
 
-This project is licensed under the Creative Commons 1.0 Universal (CC0 1.0) License - see the [License.MD](https://github.com/usdot-jpo-codehub/codehub-ui/blob/master/LICENSE) for more details. 
+This project is licensed under the Creative Commons 1.0 Universal (CC0 1.0) License - see the [License.MD](https://github.com/usdot-jpo-codehub/codehub-readme-template/blob/master/LICENSE) for more details. 
 
 ## Acknowledgments
 
