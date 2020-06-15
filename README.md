@@ -142,7 +142,7 @@ Deploy this function as an AWS Lambda function, following [this guide](https://d
 Example:
  
 * [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html) - The open coding standard used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Dropwizard](https://www.dropwizard.io/en/latest/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
