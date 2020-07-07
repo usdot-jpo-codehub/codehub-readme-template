@@ -1,10 +1,10 @@
 # codehub-readme-template
 
-# Summary of what a README file is:
+## Summary of what a README file is:
 
 A README file contains important information about the associated source code, files, dependencies and related details that make up an application. In order to leverage applications and their associated source code, members of the open source community rely on clear and concise READMEs.
 
-# Purpose of this template
+## Purpose of this template
 
 The purpose of this README template is to provide project teams an easy template to copy-paste into their own README file for source code funded, either fully or partially, by the United States Department of Transportation (U.S. DOT) Intelligent Transportation Systems Joint Program Office (ITS JPO). This template contains elements for compliance with the [ITS JPO Source Code Guidelines](https://its.dot.gov/code/#/source-code-guidelines) and README best practices. All required fields must be filled out in order to make source code available on [ITS CodeHub](https://www.its.dot.gov/code/) and track compliance with the ITS JPO Source Code Guidelines. 
 
