@@ -38,7 +38,7 @@ This project is a README template for users to copy-paste into their project's R
 
 # Prerequisites
 
-*Detail what actions users need to take before they can stand up the project, including instructions for different environments users might have. This might include instructions and examples for installing additional software.*
+*Required - Detail what actions users need to take before they can stand up the project, including instructions for different environments users might have. This might include instructions and examples for installing additional software.*
 
 Example:
 
@@ -51,7 +51,7 @@ Requires:
 *Required - Provide users with detailed instrucitons for how to use your software. The specifics of this section will vary between projects, but should adhere to the following minimum outline:*
 
 ## Building
-*Specifics for how to build/compile this code should be outlined here. If your code does not require any type of build/compilation, specify that here.*
+*Required - Specifics for how to build/compile this code should be outlined here. If your code does not require any type of build/compilation, specify that here.*
 
 Example: 
 
@@ -65,7 +65,7 @@ Step 2: Run Docker image:
 docker run myproject
 ```
 ## Testing
-*Specifics for how to run any test cases your project may have. If your test cases are automatically run as part of the build process, specify that here.*
+*Required - Specifics for how to run any test cases your project may have. If your test cases are automatically run as part of the build process, or you don't include any testing, specify that here.*
 
 Example:
 
