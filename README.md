@@ -101,13 +101,15 @@ Example:
 * [Associated Dataset](https://its.dot.gov/data/)
 
 # Version History and Retention
-*Required - Provide a version/release history in the form of a CHANGELOG file. Additionally, include a retention statement that specifies how long this repository will remain publicly accessible*
+*Required - A statement of the status of the source code (prototype, alpha, beta, release, etc.), how often users can expect activity on this repository, and a version/release history in the form of a CHANGELOG file. Additionally, include a retention statement that specifies how long this repository will remain publicly accessible*
 
 Example:
 
-**Release History: See [CHANGELOG.md](CHANGELOG.md)**
-
 **Status:** This project is being actively developed.
+
+**Release Frequency:** This project is updated approximately once every 2-3 weeks
+
+**Release History: See [CHANGELOG.md](CHANGELOG.md)**
 
 **Retention:** This project will remain publicly accessible for a minimum of five years (until at least 06/15/2025).
 
