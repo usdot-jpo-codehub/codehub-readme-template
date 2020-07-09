@@ -105,7 +105,7 @@ Example:
 
 Example:
 
-**Status:** This project is being actively developed.
+**Status:** Status: this project is in the release phase.
 
 **Release Frequency:** This project is updated approximately once every 2-3 weeks
 
