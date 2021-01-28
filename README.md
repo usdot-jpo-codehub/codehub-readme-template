@@ -140,7 +140,7 @@ Contact Information: data.itsjpo@dot.gov, (888)-888-8888
 
 *Sample citation should be in the below format, with the `formatted fields` replaced with details of your source code*
 
-`author_surname_or_organization`, `first_initial`. (`year`). _`program_or_source_code_title`_ (`code_version`) [Source code]. Provided by ITS CodeHub through GitHub.com. Accessed YYYY-MM-DD from `doi_url`.
+_`author_surname_or_organization`, `first_initial`. (`year`). _`program_or_source_code_title`_ (`code_version`) [Source code]. Provided by ITS CodeHub through GitHub.com. Accessed YYYY-MM-DD from `doi_url`._
 
 Example:
 
