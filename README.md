@@ -136,12 +136,24 @@ Contact Name: ITS JPO
 Contact Information: data.itsjpo@dot.gov, (888)-888-8888
 
 # Acknowledgements
-*Required - describe how users should reference your code if they use it to build additional software, list the Digital Object Identifier for this project, and (optional) list if you have a 3rd party or any specific contributor to give credit.*
+*Required - describe how users should reference your code if they use it to build additional software, list the Digital Object Identifier for this project, list the sample citations for associated report/paper and for this source code, and (optional) list if you have a 3rd party or any specific contributor to give credit.*
+
+*Sample citation should be in the below format, with the `formatted fields` replaced with details of your source code*
+
+_`author_surname_or_organization`, `first_initial`. (`year`)._ `program_or_source_code_title` _(`code_version`) [Source code]. Provided by ITS CodeHub through GitHub.com. Accessed YYYY-MM-DD from `doi_url`._
 
 Example:
 
+## Citing this code
 To track how this government-funded code is used, we request that if you decide to build additional software using this code please acknowledge its Digital Object Identifier in your software's README/documentation.
 
-Digital Object Identifier: (fill in with DOI)
+> Digital Object Identifier: https://doi.org/xxx.xxx/xxxx
 
+To cite this code in a publication or report, please cite our associated report/paper and/or our source code. Below is a sample citation for this code:
+
+> ITS CodeHub Team. (2021). _ITS CodeHub README Template_ (0.1) [Source code]. Provided by ITS CodeHub through GitHub.com. Accessed 2021-01-27 from https://doi.org/xxx.xxx/xxxx.
+
+When you copy or adapt from this code, please include the original URL you copied the source code from and date of retrieval as a comment in your code. Additional information on how to cite can be found in the [ITS CodeHub FAQ](https://its.dot.gov/code/#/faqs).
+
+## Contributors
 Shout out to [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) for their README template.
