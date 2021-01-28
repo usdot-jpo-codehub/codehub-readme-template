@@ -144,6 +144,7 @@ _`author_surname_or_organization`, `first_initial`. (`year`)._ `program_or_sourc
 
 Example:
 
+## Citing this code
 To track how this government-funded code is used, we request that if you decide to build additional software using this code please acknowledge its Digital Object Identifier in your software's README/documentation.
 
 > Digital Object Identifier: https://doi.org/xxx.xxx/xxxx
@@ -154,4 +155,5 @@ To cite this code in a publication or report, please cite our associated report/
 
 When you copy or adapt from this code, please include the original URL you copied the source code from and date of retrieval as a comment in your code. Additional information on how to cite can be found in the [ITS CodeHub FAQ](https://its.dot.gov/code/#/faqs).
 
+## Contributors
 Shout out to [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) for their README template.
