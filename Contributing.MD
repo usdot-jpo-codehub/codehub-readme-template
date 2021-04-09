@@ -46,4 +46,4 @@ Maintain clean commit history and use meaningful commit messages. PRs with messy
 
 Apply the "release notes: yes" label if the pull request's description should be included in the next release (e.g., any new feature / bug fix). Apply the "release notes: no" label if the pull request's description should not be included in the next release (e.g., refactoring changes that does not change behavior, integration from Google internal, updating tests, etc.).
 
-Contributions will be release in accordance with GitHub site policies (link to https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license), including that contributions will be released under the same license applied to this repository.
+Contributions will be released in accordance with GitHub site policies (link to https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license), including that contributions will be released under the same license applied to this repository.
